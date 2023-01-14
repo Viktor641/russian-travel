@@ -1,0 +1,9 @@
+.place__description {
+  display: flex;
+}
+
+@media screen and (max-width: 720px) {
+  .place__description {
+    flex-direction: column;
+  }  
+}

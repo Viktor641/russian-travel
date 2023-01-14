@@ -1,0 +1,9 @@
+.place__link {
+  max-width: 456px;
+  min-height: 22px;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+  color: #FFF;
+  padding-top: 12px;
+}

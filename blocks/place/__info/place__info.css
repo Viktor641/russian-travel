@@ -1,0 +1,14 @@
+.place__info {
+  display: flex;
+  align-items: flex-end;
+  padding-bottom: 48px;
+}
+
+@media screen and (max-width: 720px) {
+  .place__info {
+    flex-direction: column;
+    padding-left: 16px;
+    align-items: flex-start;
+    padding-bottom: 32px;
+  }
+}

@@ -18,3 +18,6 @@ ___
   }
 }
 ```
+
+__Ссылка на проект__
+https://viktor641.github.io/russian-travel/index.html

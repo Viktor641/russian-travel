@@ -26,9 +26,10 @@
   }
 }
 
-@media screen and (max-width: 660px) {
+@media screen and (max-width: 668px) {
   .place {
     width: 100%;
     padding-bottom: 50px;
+    margin: 0 auto;
   }
 }

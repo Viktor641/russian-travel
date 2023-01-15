@@ -7,12 +7,16 @@
   margin-right: 18px;
 }
 
+.footer__link:last-child {
+  margin: 0;
+}
+
 @media screen and (max-width: 720px) {
   .footer__link {
-    font-weight: 400;
     font-size: 24px;
     line-height: 24px;
     flex-direction: column;
     padding-bottom: 32px;
+    padding-right: 10px;
   }
 }

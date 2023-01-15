@@ -21,7 +21,7 @@
   }
 }
 
-@media screen and (max-width: 720px) {
+@media screen and (max-width: 660px) {
   .place__paragraph {
     width: calc(100% - 32px);
     margin: 0 auto;

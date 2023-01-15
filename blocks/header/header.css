@@ -2,19 +2,12 @@
   margin: 0 auto;
   display: flex;
   max-width: calc(100% - 96px);
-  min-height: 52px;
   padding-top: 28px;
   justify-content: space-between;
-  padding-bottom: 56px;
+
 }
 
-@media screen and (max-width: 1024px) {
-  .header {
-    padding-bottom: 48px;
-  }
-}
-
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1023px) {
   .header {
     max-width: calc(100% - 48px);
   }
@@ -24,11 +17,5 @@
   .header {
     max-width: calc(100% - 32px);
     padding-top: 16px;
-  }
-}
-
-@media screen and (max-width: 425px) {
-  .header {
-    min-height: 42px;
   }
 }

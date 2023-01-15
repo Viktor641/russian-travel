@@ -1,23 +1,23 @@
-.place__website {
+.place__text {
   display: flex;
   padding-left: 40px;
   flex-direction: column;
 }
 
 @media screen and (max-width: 1024px) {
-  .place__website {
+  .place__text {
     padding-left: 32px;
   }
 }
 
 @media screen and (max-width: 768px) {
-  .place__website {
+  .place__text {
     padding-left: 28px;
   }
 }
 
-@media screen and (max-width: 720px) {
-  .place__website {
+@media screen and (max-width: 660px) {
+  .place__text {
     padding: 0;
   }
 }

@@ -26,7 +26,7 @@
   }
 }
 
-@media screen and (max-width: 668px) {
+@media screen and (max-width: 550px) {
   .place {
     width: 100%;
     padding-bottom: 50px;

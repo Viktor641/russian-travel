@@ -25,7 +25,6 @@
     padding-bottom: 88px;
     max-width: calc(100% - 48px);
     padding-top: 88px;
-    padding-top: 64px;
   }
 }
   
@@ -35,5 +34,6 @@
     max-width: calc(100% - 32px);
     gap: 12px;
     padding-bottom: 64px;
+    padding-top: 64px;
   }
 }

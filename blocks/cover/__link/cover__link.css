@@ -1,4 +1,4 @@
-.cover__overlay {
+.cover__link {
   background-color: rgba(42, 44, 47, 0.3);
   max-width: 1184px;
   min-height: 740px;
@@ -7,26 +7,26 @@
   justify-content: center;
   text-decoration: none;
 }
-  
-.cover__overlay:hover {
+
+.cover__link:hover {
   background-color: rgba(42, 44, 47, 0.8);
   transition: linear 0.7s 0.1s;
 }
-  
+
 @media screen and (max-width: 1024px) {
-  .cover__overlay {
+  .cover__link {
     min-height: 640px;
   }
 }
-  
-@media screen and (max-width: 720px) {
-  .cover__overlay {
-  min-height: 480px;
+
+@media screen and (max-width: 768px) {
+  .cover__link {
+    min-height: 480px;
   }
 }
-  
-@media screen and (max-width: 400px) {
-  .cover__overlay {
-  min-height: 200px;
+
+@media screen and (max-width: 425px) {
+  .cover__link {
+    min-height: 200px;
   }
 }

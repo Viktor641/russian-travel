@@ -16,7 +16,7 @@
   }
 }
 
-@media screen and (max-width: 660px) {
+@media screen and (max-width: 550px) {
   .place__title-link {
     padding: 0;
   }
